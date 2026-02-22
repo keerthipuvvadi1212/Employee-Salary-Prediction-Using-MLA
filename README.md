@@ -99,6 +99,3 @@ The best-performing model is selected based on evaluation metrics.
 * Pandas Documentation
 * Matplotlib Documentation
 * Seaborn Documentation
-* ✅ Generate a DOCX version for submission
-
-Tell me which fo
